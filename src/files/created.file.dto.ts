@@ -1,5 +1,5 @@
 
 export default class CreatedFileDto{
-    key : string,
+    key : string;
     fileUrl : string
 }
